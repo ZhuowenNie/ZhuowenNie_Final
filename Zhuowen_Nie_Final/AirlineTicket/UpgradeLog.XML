@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AirlineTicket">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket.suo">
+</Property><Property Name="Date" Value="2016年4月17日">
+</Property><Property Name="Time" Value="1:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AirlineTicket.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AirlineTicket.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket.suo">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\AirlineTicket.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\AirlineTicket.csproj">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\DataAccess.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmAdd.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmAdd.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmAdd.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmAdd.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmLogin.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmLogin.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmLogin.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmMain.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmMain.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmModify.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmModify.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmModify.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmModify.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmOrder.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmOrder.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmOrder.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmOrder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\Program.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\App.config" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\App.config">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\SHUTTLE.ICO" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\SHUTTLE.ICO">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmAdd.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmAdd.resx">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmLogin.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmMain.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmModify.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmModify.resx">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\frmOrder.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\frmOrder.resx">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirlineTicket\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="AirlineTicket" Source="AirlineTicket\AirlineTicket.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\AirlineTicket.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="AirlineTicket" Source="AirlineTicket\AirlineTicket.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\AirLineTicketClient.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\AirLineTicketClient.csproj">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\frmMain.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\frmMain.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\App.config" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\App.config">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\SHUTTLE.ICO" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\SHUTTLE.ICO">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\frmMain.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\AirLineTicketClient\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="AirLineTicketClient" Source="AirLineTicketClient\AirLineTicketClient.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\AirLineTicketClient.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="AirLineTicketClient" Source="AirLineTicketClient\AirLineTicketClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataAccess" Source="ClassLibrary1\DataAccess.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\ClassLibrary1\DataAccess.csproj">
+</Event><Event ErrorLevel="0" Project="DataAccess" Source="ClassLibrary1\DataAccess1.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\ClassLibrary1\DataAccess1.cs">
+</Event><Event ErrorLevel="0" Project="DataAccess" Source="ClassLibrary1\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\Backup\ClassLibrary1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="DataAccess" Source="ClassLibrary1\DataAccess.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DataAccess" Source="ClassLibrary1\DataAccess.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DataAccess" Source="ClassLibrary1\DataAccess.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AirlineTicket.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="AirlineTicket.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AirlineTicket" Source="AirlineTicket\AirlineTicket.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="AirLineTicketClient" Source="AirLineTicketClient\AirLineTicketClient.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DataAccess" Source="ClassLibrary1\DataAccess.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

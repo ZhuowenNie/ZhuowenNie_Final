@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe.config
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.exe
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.pdb
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.pdb
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmAdd.resources
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmLogin.resources
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmMain.resources
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmModify.resources
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmOrder.resources
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AirlineTicket\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmUserMain.resources

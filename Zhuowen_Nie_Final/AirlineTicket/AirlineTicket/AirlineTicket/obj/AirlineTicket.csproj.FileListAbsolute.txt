@@ -1,0 +1,51 @@
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.pdb
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmMain.resources
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.Properties.Resources.resources
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.csproj.GenerateResource.Cache
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.exe
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.pdb
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe.config
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmAdd.resources
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmModify.resources
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\IrisSkin2.dll
+E:\ASP.NET资料\C#资料\C#教学资料\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmOrder.resources
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe.config
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.exe
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.pdb
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.pdb
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\ResolveAssemblyReference.cache
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmAdd.resources
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmMain.resources
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmModify.resources
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmOrder.resources
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.Properties.Resources.resources
+F:\fqt\教学示例\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe.config
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.exe
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.pdb
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.pdb
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmAdd.resources
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmMain.resources
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmModify.resources
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmOrder.resources
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmLogin.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe.config
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.exe
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.pdb
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.exe
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\bin\Debug\AirlineTicket.pdb
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\ResolveAssemblyReference.cache
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmAdd.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmLogin.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmMain.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmModify.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.frmOrder.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.Properties.Resources.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirlineTicket\obj\Debug\AirlineTicket.csproj.GenerateResource.Cache

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlineTicket", "AirlineTicket\AirlineTicket.csproj", "{28BCCD27-D958-4CA8-8E4D-EC1CAFAAACF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirLineTicketClient", "AirLineTicketClient\AirLineTicketClient.csproj", "{08442DEF-13E8-4230-947B-84F92137B144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "ClassLibrary1\DataAccess.csproj", "{81F4CEB8-D3BC-4FB6-A42C-35C67E80AB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BCCD27-D958-4CA8-8E4D-EC1CAFAAACF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BCCD27-D958-4CA8-8E4D-EC1CAFAAACF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BCCD27-D958-4CA8-8E4D-EC1CAFAAACF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BCCD27-D958-4CA8-8E4D-EC1CAFAAACF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08442DEF-13E8-4230-947B-84F92137B144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08442DEF-13E8-4230-947B-84F92137B144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08442DEF-13E8-4230-947B-84F92137B144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08442DEF-13E8-4230-947B-84F92137B144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F4CEB8-D3BC-4FB6-A42C-35C67E80AB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F4CEB8-D3BC-4FB6-A42C-35C67E80AB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F4CEB8-D3BC-4FB6-A42C-35C67E80AB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F4CEB8-D3BC-4FB6-A42C-35C67E80AB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

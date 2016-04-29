@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\bin\Debug\AirLineTicketClient.exe.config
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.exe
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.pdb
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\bin\Debug\AirLineTicketClient.exe
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\bin\Debug\AirLineTicketClient.pdb
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.frmMain.resources
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\bin\Debug\ClassLibrary1.dll
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\AirLineTicketClient\bin\Debug\ClassLibrary1.pdb
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\bin\Debug\AirLineTicketClient.exe.config
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\bin\Debug\AirLineTicketClient.exe
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\bin\Debug\AirLineTicketClient.pdb
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\bin\Debug\ClassLibrary1.dll
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\bin\Debug\ClassLibrary1.pdb
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\obj\Debug\ResolveAssemblyReference.cache
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.frmMain.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.Properties.Resources.resources
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.csproj.GenerateResource.Cache
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.exe
+G:\WinForm开发\机票登录系统\AirlineTicket\AirLineTicketClient\obj\Debug\AirLineTicketClient.pdb

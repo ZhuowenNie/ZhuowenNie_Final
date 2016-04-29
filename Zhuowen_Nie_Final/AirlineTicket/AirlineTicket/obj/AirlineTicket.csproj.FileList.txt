@@ -1,0 +1,3 @@
+bin\Debug\AirlineTicket.exe.config
+obj\Debug\AirlineTicket.exe
+obj\Debug\AirlineTicket.pdb

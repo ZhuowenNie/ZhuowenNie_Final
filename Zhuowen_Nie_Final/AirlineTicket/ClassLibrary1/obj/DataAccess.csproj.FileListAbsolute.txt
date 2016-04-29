@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Documents and Settings\Administrator\桌面\WinForm项目准备知识\AirlineTicket\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+G:\WinForm开发\机票登录系统\AirlineTicket\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\WinForm开发\机票登录系统\AirlineTicket\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\WinForm开发\机票登录系统\AirlineTicket\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+G:\WinForm开发\机票登录系统\AirlineTicket\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\WinForm开发\机票登录系统\AirlineTicket\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
